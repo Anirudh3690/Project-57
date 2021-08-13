@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: linear-gradient(cyan 35%, #48a5c2 65%);
+}
+
+#image1 {
+    height: 570px;
+    width: 570px;
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: "Haettenschweiler";
+}
+
+.line {
+    height: 7px;
+    width: 280px;
+    background-color: black;
+    margin: 8px auto;
+}
